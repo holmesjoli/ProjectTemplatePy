@@ -1,2 +1,2 @@
 # PyProjectTemplate
-Python project initial files
+Starter files for a new python project
